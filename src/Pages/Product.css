@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    width: 250px;
+    margin: 20px;
+    display: flex;
+    float: left;
+}
+.cardimg{
+    width: 200px;
+    height: 300px;
+   
+}
+.text1{
+    align-items: center;
+    margin:20px;
+}
+.cardbtn{
+    justify-content: center;
+    align-items: center;
+}
+

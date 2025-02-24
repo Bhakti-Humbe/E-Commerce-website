@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+    color: white;
+    width: 1500px;
+}
+.page-container {
+  display:flex;
+ flex-direction:column;
+ min-height:200vh;
+ 
+}
+.content-wrap{
+ flex:1;
+ }
+ .icon{
+  height: 10px;
+  width: 40px;
+ }
+ .instagram{
+  color: rgb(243, 28, 189);
+ }
+ .facebook{
+  color: rgb(39, 77, 247);
+ }
+ .linkedin{
+  color: rgb(114, 91, 248);
+ }
+ 

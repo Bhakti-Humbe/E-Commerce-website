@@ -1,0 +1,229 @@
+
+/*.container1Card
+{ 
+  
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  
+ 
+  .card
+  {
+    margin: 1rem;
+  }
+}
+.container2Card
+{
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  .card
+  {
+    margin: 1rem;
+  }
+}
+.container3Card
+{
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  .card
+  {
+    margin: 1rem;
+  }
+}
+.container4Card
+{
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  .card
+  {
+    margin: 1rem;
+  }
+}
+.container5Card
+{
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  .card
+  {
+    margin: 1rem;
+  }
+}
+.container6Card
+{
+  display:flex;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  .card
+  {
+    margin: 1rem;
+  }
+}
+
+.img
+{
+  height: 60%;
+  width: -10% ;
+}
+.img1
+{
+  height: 270px;
+}
+.img2
+{
+  height: 59%;
+}
+.img3
+{
+  height: 100px;
+}
+.img4
+{
+  height: 70%;
+}
+.img6
+{
+  height: 55%;
+  width: 40%;
+}
+.img11
+{
+  height: 55%;
+}
+.img16
+{
+  height: 55%;
+}
+.img21
+{
+  height: 55%;
+}
+.img20
+{
+  height: 55%;
+}
+.img26
+{
+  height: 55%;
+}
+
+.img31
+{
+  height: 57%;
+}
+.img32
+{
+  height: 57%;
+}
+.img33
+{
+  height: 57%;
+}
+.img36
+{
+  height: 55%;
+}
+.img3
+{
+  height: 55%;
+}
+.img39
+{
+  height: 55%;
+}
+.img30
+{
+  height: 57%;
+}
+.img28
+{
+  height: 57%;
+}
+.img27
+{
+  height: 57%;
+}
+.img25
+{
+  height: 57%;
+}
+.card:hover{
+ border-color:rgb(214, 22, 118);
+  box-shadow: 6px 6px 12px 4px rgb(214, 22, 118);
+
+}
+.card{
+  transition: ease-in-out;
+  
+}
+.form
+{
+  width: 100%;
+  margin: 1 rem;
+  display: flex;
+  flex-direction: column;
+  justify-content:center ;
+  align-items: center;
+
+  h1{
+     color: blueviolet;
+  }
+  div{
+    margin:1rem 0;
+    
+    label{
+      width:5rem;
+      text-align:right;
+      margin-right: 1rem;
+    }
+    input{
+      width: 20rem;
+    }
+  }
+}
+.table
+{
+  width: 100px;
+  margin: 700 rem;
+  display: flex;
+  flex-direction:column;
+  justify-content:center ;
+  align-items: center;
+  margin-top: 30px;
+  margin-inline: 20px;
+  border-color: #0f0f0f;
+  border-style: hidden;
+
+  thead{
+      text-align:center;
+      display: flex;
+      width: 18px;
+      justify-content:center ;
+    }
+    tr,td,th{
+      text-align:center;
+      justify-content:center ;
+      width: fit-content;
+    }
+  
+  
+}
+.table1{
+  th{
+    text-align: center;
+  }
+}
+/*.background1{
+  background-image: url("E:\fullstack\src\Pages\images\download (80).jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: left;
+    position: relative;
+    
+}*/
+
+
+
